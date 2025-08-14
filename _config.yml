@@ -56,3 +56,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+[dummy text] (http://fillerama.io/)
+layout: default
+title: Home 
+
+
